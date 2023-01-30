@@ -1,0 +1,24 @@
+.luvlogo{
+    margin-top:-10px;
+    margin-left:20px;
+    max-width: 25%;
+}
+
+.infobox{
+    width:100%;
+    height:140px;
+    padding:20px;
+}
+
+.infobox1{
+    background-color:#29a9da;
+}
+.infobox2{
+    background-color: #5ec1e0;
+}
+.infobox3{
+    background-color: #facd00;
+}
+.infobox4{
+    background-color: #fb6b6a;
+}
